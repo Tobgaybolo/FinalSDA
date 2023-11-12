@@ -1,0 +1,303 @@
+/* Increase size on hover */
+.overlap-group{
+  transition: transform 0.3s ease;
+}
+
+.overlap-group:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.group-2 {
+  transition: transform 0.3s ease;
+}
+
+.group-2:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.div-wrapper {
+  transition: transform 0.3s ease;
+}
+
+.div-wrapper:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.things-i-did-till-wrapper {
+  transition: transform 0.3s ease;
+}
+
+.things-i-did-till-wrapper:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+
+.macbook-air {
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .overlap-wrapper {
+  background-color: #1e1e1e;
+  width: 1280px;
+  height: 832px;
+}
+
+.macbook-air .overlap {
+  position: relative;
+  width: 1209px;
+  height: 828px;
+  top: 2px;
+  left: 53px;
+}
+
+.macbook-air .vector {
+  position: absolute;
+  width: 1053px;
+  height: 828px;
+  top: 0;
+  left: 28px;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  top: 56px;
+  left: 534px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .Gimg {
+  position: absolute;
+  width: 206px;
+  height: 24px;
+  top: 110px;
+  left: 484px;
+}
+
+.macbook-air .icon-tick-circle {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 180px;
+  left: 232px;
+}
+
+.macbook-air .icon-tick-circle-2 {
+  top: 266px;
+  left: 214px;
+  position: absolute;
+  width: 37px;
+  height: 37px;
+}
+
+.macbook-air .icon-tick-circle-3 {
+  top: 350px;
+  left: 188px;
+  position: absolute;
+  width: 37px;
+  height: 37px;
+}
+
+.macbook-air .div {
+  position: absolute;
+  top: 182px;
+  left: 303px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group {
+  position: absolute;
+  width: 135px;
+  height: 49px;
+  top: 8px;
+  left: 865px;
+}
+
+.macbook-air .overlap-group {
+  position: relative;
+  width: 133px;
+  height: 49px;
+  border-radius: 64px;
+}
+
+.macbook-air .rectangle {
+  position: absolute;
+  width: 133px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+  transform: rotate(180deg);
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  top: 8px;
+  left: 33px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .overlap-group-wrapper {
+  position: absolute;
+  width: 159px;
+  height: 49px;
+  top: 146px;
+  left: 970px;
+}
+
+.macbook-air .div-wrapper {
+  position: relative;
+  width: 157px;
+  height: 49px;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 7px;
+  left: 20px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-2 {
+  position: absolute;
+  width: 188px;
+  height: 49px;
+  top: 217px;
+  left: 1021px;
+}
+
+.macbook-air .overlap-2 {
+  position: relative;
+  width: 175px;
+  height: 49px;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-3 {
+  position: absolute;
+  width: 166px;
+  height: 168px;
+  top: 57px;
+  left: 0;
+}
+
+.macbook-air .things-i-did-till-wrapper {
+  position: relative;
+  width: 181px;
+  height: 184px;
+  top: -4px;
+  left: -9px;
+  background-image: url(./Gimg/vector-10.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .things-i-did-till {
+  position: absolute;
+  top: 48px;
+  left: 30px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-4 {
+  position: absolute;
+  width: 135px;
+  height: 49px;
+  top: 77px;
+  left: 920px;
+}
+
+.macbook-air .overlap-3 {
+  position: relative;
+  width: 133px;
+  height: 49px;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-5 {
+  position: absolute;
+  top: 5px;
+  left: 30px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #bcd8f1b8;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .p {
+  position: absolute;
+  top: 268px;
+  left: 268px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .to-publish-my-own {
+  position: absolute;
+  top: 343px;
+  left: 250px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}

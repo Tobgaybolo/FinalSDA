@@ -1,0 +1,2338 @@
+/* Increase size on hover */
+.overlap-group-wrapper {
+  transition: transform 0.3s ease;
+}
+
+.overlap-group-wrapper:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.overlap-2 {
+  transition: transform 0.3s ease;
+}
+
+.overlap-2:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.overlap-3 {
+  transition: transform 0.3s ease;
+}
+
+.overlap-3:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.things-i-did-till-wrapper {
+  transition: transform 0.3s ease;
+}
+
+.things-i-did-till-wrapper:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.vector {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.vector-2 {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.vector-3 {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.vector-5 {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.vector-6 {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.vector-8 {
+  /* Your existing styles */
+  filter: brightness(150%);
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+      filter: brightness(150%);
+  }
+  to {
+      filter: brightness(200%);
+  }
+}
+
+.macbook-air {
+  background-color: #202735;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-air .div {
+  background-color: #202735;
+  overflow: hidden;
+  width: 1280px;
+  height: 832px;
+  position: relative;
+}
+
+.macbook-air .overlap {
+  position: absolute;
+  width: 1282px;
+  height: 971px;
+  top: 0;
+  left: -2px;
+}
+
+.macbook-air .group {
+  top: 151px;
+  left: 593px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .img {
+  top: 697px;
+  left: 668px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-2 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 613px;
+  left: 668px;
+}
+
+.macbook-air .group-3 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 739px;
+  left: 593px;
+}
+
+.macbook-air .group-4 {
+  position: absolute;
+  width: 97px;
+  height: 9px;
+  top: 823px;
+  left: 593px;
+}
+
+.macbook-air .group-5 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 655px;
+  left: 593px;
+}
+
+.macbook-air .group-6 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 571px;
+  left: 593px;
+}
+
+.macbook-air .group-7 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 529px;
+  left: 668px;
+}
+
+.macbook-air .group-8 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 487px;
+  left: 743px;
+}
+
+.macbook-air .group-9 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 403px;
+  left: 743px;
+}
+
+.macbook-air .group-10 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 445px;
+  left: 968px;
+}
+
+.macbook-air .group-11 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 444px;
+  left: 1118px;
+}
+
+.macbook-air .group-12 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 654px;
+  left: 1194px;
+}
+
+.macbook-air .group-13 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 613px;
+  left: 1118px;
+}
+
+.macbook-air .group-14 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 528px;
+  left: 1118px;
+}
+
+.macbook-air .group-15 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 360px;
+  left: 1269px;
+}
+
+.macbook-air .group-16 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 444px;
+  left: 1269px;
+}
+
+.macbook-air .group-17 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 529px;
+  left: 1269px;
+}
+
+.macbook-air .group-18 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 612px;
+  left: 1269px;
+}
+
+.macbook-air .group-19 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 696px;
+  left: 1269px;
+}
+
+.macbook-air .group-20 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 403px;
+  left: 1194px;
+}
+
+.macbook-air .group-21 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 486px;
+  left: 1194px;
+}
+
+.macbook-air .group-22 {
+  position: absolute;
+  width: 89px;
+  height: 82px;
+  top: 570px;
+  left: 1193px;
+}
+
+.macbook-air .group-23 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 402px;
+  left: 1043px;
+}
+
+.macbook-air .group-24 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 486px;
+  left: 1043px;
+}
+
+.macbook-air .group-25 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 361px;
+  left: 968px;
+}
+
+.macbook-air .group-26 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 403px;
+  left: 893px;
+}
+
+.macbook-air .group-27 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 319px;
+  left: 893px;
+}
+
+.macbook-air .group-28 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 445px;
+  left: 818px;
+}
+
+.macbook-air .group-29 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 361px;
+  left: 818px;
+}
+
+.macbook-air .group-30 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 277px;
+  left: 818px;
+}
+
+.macbook-air .group-31 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 319px;
+  left: 743px;
+}
+
+.macbook-air .group-32 {
+  position: absolute;
+  width: 97px;
+  height: 51px;
+  top: 781px;
+  left: 668px;
+}
+
+.macbook-air .group-33 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 739px;
+  left: 743px;
+}
+
+.macbook-air .group-34 {
+  position: absolute;
+  width: 97px;
+  height: 9px;
+  top: 823px;
+  left: 743px;
+}
+
+.macbook-air .group-35 {
+  position: absolute;
+  width: 97px;
+  height: 10px;
+  top: 822px;
+  left: 894px;
+}
+
+.macbook-air .group-36 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 655px;
+  left: 743px;
+}
+
+.macbook-air .group-37 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 570px;
+  left: 1043px;
+}
+
+.macbook-air .group-38 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 654px;
+  left: 1043px;
+}
+
+.macbook-air .group-39 {
+  position: absolute;
+  width: 97px;
+  height: 51px;
+  top: 781px;
+  left: 968px;
+}
+
+.macbook-air .group-40 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 697px;
+  left: 1118px;
+}
+
+.macbook-air .group-41 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 738px;
+  left: 1194px;
+}
+
+.macbook-air .group-42 {
+  position: absolute;
+  width: 88px;
+  height: 9px;
+  top: 823px;
+  left: 1194px;
+}
+
+.macbook-air .group-43 {
+  position: absolute;
+  width: 97px;
+  height: 8px;
+  top: 824px;
+  left: 1043px;
+}
+
+.macbook-air .group-44 {
+  position: absolute;
+  width: 97px;
+  height: 51px;
+  top: 781px;
+  left: 1119px;
+}
+
+.macbook-air .group-45 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 740px;
+  left: 1043px;
+}
+
+.macbook-air .group-46 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 528px;
+  left: 968px;
+}
+
+.macbook-air .group-47 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 612px;
+  left: 968px;
+}
+
+.macbook-air .group-48 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 696px;
+  left: 968px;
+}
+
+.macbook-air .group-49 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 738px;
+  left: 893px;
+}
+
+.macbook-air .group-50 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 654px;
+  left: 893px;
+}
+
+.macbook-air .group-51 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 571px;
+  left: 893px;
+}
+
+.macbook-air .group-52 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 487px;
+  left: 893px;
+}
+
+.macbook-air .group-53 {
+  position: absolute;
+  width: 97px;
+  height: 51px;
+  top: 781px;
+  left: 819px;
+}
+
+.macbook-air .group-54 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 696px;
+  left: 818px;
+}
+
+.macbook-air .group-55 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 613px;
+  left: 818px;
+}
+
+.macbook-air .group-56 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 528px;
+  left: 818px;
+}
+
+.macbook-air .group-57 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 571px;
+  left: 743px;
+}
+
+.macbook-air .group-58 {
+  position: absolute;
+  width: 97px;
+  height: 64px;
+  top: 0;
+  left: 743px;
+}
+
+.macbook-air .group-59 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 67px;
+  left: 743px;
+}
+
+.macbook-air .group-60 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 151px;
+  left: 743px;
+}
+
+.macbook-air .group-61 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 235px;
+  left: 893px;
+}
+
+.macbook-air .group-62 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 151px;
+  left: 893px;
+}
+
+.macbook-air .group-63 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 24px;
+  left: 968px;
+}
+
+.macbook-air .group-64 {
+  position: absolute;
+  width: 87px;
+  height: 63px;
+  top: 0;
+  left: 1195px;
+}
+
+.macbook-air .group-65 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 66px;
+  left: 1043px;
+}
+
+.macbook-air .group-66 {
+  position: absolute;
+  width: 97px;
+  height: 21px;
+  top: 0;
+  left: 1119px;
+}
+
+.macbook-air .group-67 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 24px;
+  left: 1119px;
+}
+
+.macbook-air .group-68 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 1119px;
+}
+
+.macbook-air .group-69 {
+  position: absolute;
+  width: 12px;
+  height: 82px;
+  top: 110px;
+  left: 1270px;
+}
+
+.macbook-air .group-70 {
+  position: absolute;
+  width: 12px;
+  height: 82px;
+  top: 24px;
+  left: 1270px;
+}
+
+.macbook-air .group-71 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 192px;
+  left: 1269px;
+}
+
+.macbook-air .group-72 {
+  position: absolute;
+  width: 15px;
+  height: 82px;
+  top: 276px;
+  left: 1267px;
+}
+
+.macbook-air .group-73 {
+  position: absolute;
+  width: 87px;
+  height: 82px;
+  top: 66px;
+  left: 1195px;
+}
+
+.macbook-air .group-74 {
+  position: absolute;
+  width: 89px;
+  height: 82px;
+  top: 151px;
+  left: 1193px;
+}
+
+.macbook-air .group-75 {
+  position: absolute;
+  width: 97px;
+  height: 22px;
+  top: 0;
+  left: 968px;
+}
+
+.macbook-air .group-76 {
+  position: absolute;
+  width: 97px;
+  height: 63px;
+  top: 0;
+  left: 1043px;
+}
+
+.macbook-air .group-77 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 151px;
+  left: 1043px;
+}
+
+.macbook-air .group-78 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 277px;
+  left: 968px;
+}
+
+.macbook-air .group-79 {
+  position: absolute;
+  width: 89px;
+  height: 82px;
+  top: 234px;
+  left: 1193px;
+}
+
+.macbook-air .group-80 {
+  position: absolute;
+  width: 89px;
+  height: 82px;
+  top: 319px;
+  left: 1193px;
+}
+
+.macbook-air .group-81 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 361px;
+  left: 1119px;
+}
+
+.macbook-air .group-82 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 193px;
+  left: 1118px;
+}
+
+.macbook-air .group-83 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 277px;
+  left: 1119px;
+}
+
+.macbook-air .group-84 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 319px;
+  left: 1043px;
+}
+
+.macbook-air .group-85 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 236px;
+  left: 1043px;
+}
+
+.macbook-air .group-86 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 193px;
+  left: 968px;
+}
+
+.macbook-air .group-87 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 968px;
+}
+
+.macbook-air .group-88 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 67px;
+  left: 893px;
+}
+
+.macbook-air .group-89 {
+  position: absolute;
+  width: 97px;
+  height: 65px;
+  top: 0;
+  left: 893px;
+}
+
+.macbook-air .group-90 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 193px;
+  left: 818px;
+}
+
+.macbook-air .group-91 {
+  position: absolute;
+  width: 97px;
+  height: 23px;
+  top: 0;
+  left: 818px;
+}
+
+.macbook-air .group-92 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 818px;
+}
+
+.macbook-air .group-93 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 25px;
+  left: 818px;
+}
+
+.macbook-air .group-94 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 487px;
+  left: 593px;
+}
+
+.macbook-air .group-95 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 445px;
+  left: 668px;
+}
+
+.macbook-air .group-96 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 403px;
+  left: 593px;
+}
+
+.macbook-air .group-97 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 361px;
+  left: 668px;
+}
+
+.macbook-air .group-98 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 319px;
+  left: 593px;
+}
+
+.macbook-air .group-99 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 277px;
+  left: 668px;
+}
+
+.macbook-air .group-100 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 235px;
+  left: 743px;
+}
+
+.macbook-air .group-101 {
+  top: 235px;
+  left: 593px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-102 {
+  position: absolute;
+  width: 97px;
+  height: 23px;
+  top: 0;
+  left: 668px;
+}
+
+.macbook-air .group-103 {
+  position: absolute;
+  width: 97px;
+  height: 65px;
+  top: 0;
+  left: 593px;
+}
+
+.macbook-air .group-104 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 25px;
+  left: 668px;
+}
+
+.macbook-air .group-105 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 193px;
+  left: 668px;
+}
+
+.macbook-air .group-106 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 668px;
+}
+
+.macbook-air .group-107 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 66px;
+  left: 593px;
+}
+
+.macbook-air .group-108 {
+  position: absolute;
+  width: 13px;
+  height: 52px;
+  top: 780px;
+  left: 1269px;
+}
+
+.macbook-air .group-109 {
+  top: 194px;
+  left: 517px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-110 {
+  top: 740px;
+  left: 442px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-111 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 656px;
+  left: 442px;
+}
+
+.macbook-air .group-112 {
+  position: absolute;
+  width: 97px;
+  height: 50px;
+  top: 782px;
+  left: 517px;
+}
+
+.macbook-air .group-113 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 698px;
+  left: 517px;
+}
+
+.macbook-air .group-114 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 614px;
+  left: 517px;
+}
+
+.macbook-air .group-115 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 572px;
+  left: 442px;
+}
+
+.macbook-air .group-116 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 530px;
+  left: 367px;
+}
+
+.macbook-air .group-117 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 446px;
+  left: 367px;
+}
+
+.macbook-air .group-118 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 488px;
+  left: 142px;
+}
+
+.macbook-air .group-119 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 487px;
+  left: 2px;
+}
+
+.macbook-air .group-120 {
+  position: absolute;
+  width: 12px;
+  height: 82px;
+  top: 697px;
+  left: 2px;
+}
+
+.macbook-air .group-121 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 656px;
+  left: 2px;
+}
+
+.macbook-air .group-122 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 571px;
+  left: 2px;
+}
+
+.macbook-air .group-123 {
+  position: absolute;
+  width: 12px;
+  height: 82px;
+  top: 446px;
+  left: 2px;
+}
+
+.macbook-air .group-124 {
+  position: absolute;
+  width: 12px;
+  height: 82px;
+  top: 529px;
+  left: 2px;
+}
+
+.macbook-air .group-125 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 613px;
+  left: 2px;
+}
+
+.macbook-air .group-126 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 445px;
+  left: 67px;
+}
+
+.macbook-air .group-127 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 529px;
+  left: 67px;
+}
+
+.macbook-air .group-128 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 404px;
+  left: 142px;
+}
+
+.macbook-air .group-129 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 446px;
+  left: 217px;
+}
+
+.macbook-air .group-130 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 362px;
+  left: 217px;
+}
+
+.macbook-air .group-131 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 488px;
+  left: 292px;
+}
+
+.macbook-air .group-132 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 404px;
+  left: 292px;
+}
+
+.macbook-air .group-133 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 320px;
+  left: 292px;
+}
+
+.macbook-air .group-134 {
+  top: 362px;
+  left: 367px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-135 {
+  position: absolute;
+  width: 97px;
+  height: 8px;
+  top: 824px;
+  left: 442px;
+}
+
+.macbook-air .group-136 {
+  position: absolute;
+  width: 97px;
+  height: 50px;
+  top: 782px;
+  left: 367px;
+}
+
+.macbook-air .group-137 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 698px;
+  left: 367px;
+}
+
+.macbook-air .group-138 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 613px;
+  left: 67px;
+}
+
+.macbook-air .group-139 {
+  position: absolute;
+  width: 97px;
+  height: 8px;
+  top: 824px;
+  left: 142px;
+}
+
+.macbook-air .group-140 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 740px;
+  left: 2px;
+}
+
+.macbook-air .group-141 {
+  position: absolute;
+  width: 12px;
+  height: 51px;
+  top: 781px;
+  left: 2px;
+}
+
+.macbook-air .group-142 {
+  position: absolute;
+  width: 87px;
+  height: 8px;
+  top: 824px;
+  left: 2px;
+}
+
+.macbook-air .group-143 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 697px;
+  left: 67px;
+}
+
+.macbook-air .group-144 {
+  position: absolute;
+  width: 97px;
+  height: 49px;
+  top: 783px;
+  left: 67px;
+}
+
+.macbook-air .group-145 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 571px;
+  left: 142px;
+}
+
+.macbook-air .group-146 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 655px;
+  left: 142px;
+}
+
+.macbook-air .group-147 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 739px;
+  left: 142px;
+}
+
+.macbook-air .group-148 {
+  position: absolute;
+  width: 97px;
+  height: 51px;
+  top: 781px;
+  left: 217px;
+}
+
+.macbook-air .group-149 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 697px;
+  left: 217px;
+}
+
+.macbook-air .group-150 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 614px;
+  left: 217px;
+}
+
+.macbook-air .group-151 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 530px;
+  left: 217px;
+}
+
+.macbook-air .group-152 {
+  position: absolute;
+  width: 97px;
+  height: 8px;
+  top: 824px;
+  left: 291px;
+}
+
+.macbook-air .group-153 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 739px;
+  left: 292px;
+}
+
+.macbook-air .group-154 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 656px;
+  left: 292px;
+}
+
+.macbook-air .group-155 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 571px;
+  left: 292px;
+}
+
+.macbook-air .group-156 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 614px;
+  left: 367px;
+}
+
+.macbook-air .group-157 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 25px;
+  left: 367px;
+}
+
+.macbook-air .group-158 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 110px;
+  left: 367px;
+}
+
+.macbook-air .group-159 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 194px;
+  left: 367px;
+}
+
+.macbook-air .group-160 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 278px;
+  left: 217px;
+}
+
+.macbook-air .group-161 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 194px;
+  left: 217px;
+}
+
+.macbook-air .group-162 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 67px;
+  left: 142px;
+}
+
+.macbook-air .group-163 {
+  position: absolute;
+  width: 11px;
+  height: 82px;
+  top: 24px;
+  left: 2px;
+}
+
+.macbook-air .group-164 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 67px;
+}
+
+.macbook-air .group-165 {
+  position: absolute;
+  width: 87px;
+  height: 64px;
+  top: 0;
+  left: 2px;
+}
+
+.macbook-air .group-166 {
+  position: absolute;
+  width: 87px;
+  height: 82px;
+  top: 67px;
+  left: 2px;
+}
+
+.macbook-air .group-167 {
+  position: absolute;
+  width: 87px;
+  height: 82px;
+  top: 152px;
+  left: 2px;
+}
+
+.macbook-air .group-168 {
+  position: absolute;
+  width: 11px;
+  height: 82px;
+  top: 109px;
+  left: 2px;
+}
+
+.macbook-air .group-169 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 194px;
+  left: 2px;
+}
+
+.macbook-air .group-170 {
+  position: absolute;
+  width: 97px;
+  height: 65px;
+  top: 0;
+  left: 142px;
+}
+
+.macbook-air .group-171 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 24px;
+  left: 67px;
+}
+
+.macbook-air .group-172 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 194px;
+  left: 67px;
+}
+
+.macbook-air .group-173 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 320px;
+  left: 142px;
+}
+
+.macbook-air .group-174 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 277px;
+  left: 2px;
+}
+
+.macbook-air .group-175 {
+  position: absolute;
+  width: 13px;
+  height: 82px;
+  top: 362px;
+  left: 2px;
+}
+
+.macbook-air .group-176 {
+  position: absolute;
+  width: 87px;
+  height: 82px;
+  top: 404px;
+  left: 2px;
+}
+
+.macbook-air .group-177 {
+  position: absolute;
+  width: 88px;
+  height: 82px;
+  top: 236px;
+  left: 2px;
+}
+
+.macbook-air .group-178 {
+  position: absolute;
+  width: 87px;
+  height: 82px;
+  top: 320px;
+  left: 2px;
+}
+
+.macbook-air .group-179 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 362px;
+  left: 67px;
+}
+
+.macbook-air .group-180 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 279px;
+  left: 67px;
+}
+
+.macbook-air .group-181 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 236px;
+  left: 142px;
+}
+
+.macbook-air .group-182 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 152px;
+  left: 142px;
+}
+
+.macbook-air .group-183 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 110px;
+  left: 217px;
+}
+
+.macbook-air .group-184 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 26px;
+  left: 217px;
+}
+
+.macbook-air .group-185 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 236px;
+  left: 292px;
+}
+
+.macbook-air .group-186 {
+  position: absolute;
+  width: 97px;
+  height: 66px;
+  top: 0;
+  left: 292px;
+}
+
+.macbook-air .group-187 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 152px;
+  left: 292px;
+}
+
+.macbook-air .group-188 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 68px;
+  left: 292px;
+}
+
+.macbook-air .group-189 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 530px;
+  left: 517px;
+}
+
+.macbook-air .group-190 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 488px;
+  left: 442px;
+}
+
+.macbook-air .group-191 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 446px;
+  left: 517px;
+}
+
+.macbook-air .group-192 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 404px;
+  left: 442px;
+}
+
+.macbook-air .group-193 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 362px;
+  left: 517px;
+}
+
+.macbook-air .group-194 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 320px;
+  left: 442px;
+}
+
+.macbook-air .group-195 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 278px;
+  left: 367px;
+}
+
+.macbook-air .group-196 {
+  top: 278px;
+  left: 517px;
+  position: absolute;
+  width: 97px;
+  height: 82px;
+}
+
+.macbook-air .group-197 {
+  position: absolute;
+  width: 97px;
+  height: 66px;
+  top: 0;
+  left: 442px;
+}
+
+.macbook-air .group-198 {
+  position: absolute;
+  width: 97px;
+  height: 24px;
+  top: 0;
+  left: 517px;
+}
+
+.macbook-air .group-199 {
+  position: absolute;
+  width: 97px;
+  height: 23px;
+  top: 0;
+  left: 67px;
+}
+
+.macbook-air .group-200 {
+  position: absolute;
+  width: 97px;
+  height: 22px;
+  top: 0;
+  left: 217px;
+}
+
+.macbook-air .group-201 {
+  position: absolute;
+  width: 97px;
+  height: 22px;
+  top: 0;
+  left: 367px;
+}
+
+.macbook-air .group-202 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 26px;
+  left: 517px;
+}
+
+.macbook-air .group-203 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 68px;
+  left: 442px;
+}
+
+.macbook-air .group-204 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 236px;
+  left: 442px;
+}
+
+.macbook-air .group-205 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 152px;
+  left: 442px;
+}
+
+.macbook-air .group-206 {
+  position: absolute;
+  width: 97px;
+  height: 82px;
+  top: 109px;
+  left: 517px;
+}
+
+.macbook-air .vector {
+  position: absolute;
+  width: 1130px;
+  height: 633px;
+  top: 0;
+  left: 152px;
+}
+
+.macbook-air .vector-2 {
+  position: absolute;
+  width: 1205px;
+  height: 676px;
+  top: 84px;
+  left: 77px;
+}
+
+.macbook-air .overlap-wrapper {
+  height: 676px;
+  top: 0;
+  left: 76px;
+  overflow: hidden;
+  position: absolute;
+  width: 1206px;
+}
+
+.macbook-air .overlap-group {
+  position: relative;
+  width: 1207px;
+  height: 676px;
+  left: 1px;
+}
+
+.macbook-air .vector-3 {
+  position: absolute;
+  width: 1205px;
+  height: 676px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .overlap-group-wrapper {
+  position: absolute;
+  width: 165px;
+  height: 49px;
+  top: 57px;
+  left: 488px;
+}
+
+.macbook-air .div-wrapper {
+  position: relative;
+  width: 163px;
+  height: 49px;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper {
+  position: absolute;
+  width: 137px;
+  top: 5px;
+  left: 21px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-207 {
+  position: absolute;
+  width: 352px;
+  height: 49px;
+  top: 57px;
+  left: 679px;
+}
+
+.macbook-air .overlap-2 {
+  position: absolute;
+  width: 133px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  border-radius: 64px;
+}
+
+.macbook-air .rectangle {
+  width: 133px;
+  position: absolute;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-2 {
+  position: absolute;
+  top: 8px;
+  left: 31px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .overlap-3 {
+  position: absolute;
+  width: 183px;
+  height: 49px;
+  top: 0;
+  left: 165px;
+  border-radius: 64px;
+}
+
+.macbook-air .rectangle-2 {
+  width: 183px;
+  position: absolute;
+  height: 49px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-3 {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-208 {
+  position: absolute;
+  width: 166px;
+  height: 168px;
+  top: 24px;
+  left: 1041px;
+}
+
+.macbook-air .things-i-did-till-wrapper {
+  position: relative;
+  width: 168px;
+  height: 176px;
+  left: -4px;
+  background-image: url(./img/vector-9.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .things-i-did-till {
+  position: absolute;
+  top: 42px;
+  left: 30px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .group-209 {
+  position: absolute;
+  width: 148px;
+  height: 53px;
+  top: 53px;
+  left: 314px;
+}
+
+.macbook-air .overlap-4 {
+  position: relative;
+  width: 146px;
+  height: 53px;
+  background-color: #1e1e1e;
+  border-radius: 64px;
+  border: 3px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .text-wrapper-4 {
+  position: absolute;
+  top: 7px;
+  left: 31px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #bcd8f1b8;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .vector-4 {
+  height: 676px;
+  top: 125px;
+  left: 0;
+  position: absolute;
+  width: 1206px;
+}
+
+.macbook-air .overlap-5 {
+  position: relative;
+  width: 1204px;
+  height: 676px;
+  left: 2px;
+  background-image: url(./img/vector-5.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .vector-5 {
+  position: absolute;
+  width: 1204px;
+  height: 676px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .group-210 {
+  position: absolute;
+  width: 595px;
+  height: 163px;
+  top: 52px;
+  left: 316px;
+}
+
+.macbook-air .hello-welcome-to-my-wrapper {
+  width: 593px;
+  height: 163px;
+  border-radius: 68px;
+  position: relative;
+  background-color: #202735;
+  border: 2px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .hello-welcome-to-my {
+  position: absolute;
+  width: 564px;
+  top: 45px;
+  left: 69px;
+  font-family: "Figma Hand-Regular", Helvetica;
+  font-weight: 400;
+  color: #79ead6;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .vector-6 {
+  height: 624px;
+  top: 208px;
+  left: 2px;
+  position: absolute;
+  width: 1206px;
+}
+
+.macbook-air .vector-7 {
+  height: 676px;
+  top: 295px;
+  left: 0;
+  position: absolute;
+  width: 1206px;
+}
+
+.macbook-air .overlap-6 {
+  position: relative;
+  width: 1204px;
+  height: 537px;
+  left: 2px;
+  background-image: url(./img/vector-2.svg);
+  background-size: 100% 100%;
+}
+
+.macbook-air .vector-8 {
+  position: absolute;
+  width: 1204px;
+  height: 537px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .group-211 {
+  position: absolute;
+  width: 460px;
+  height: 141px;
+  top: 43px;
+  left: 514px;
+}
+
+.macbook-air .overlap-group-2 {
+  width: 456px;
+  height: 141px;
+  border-radius: 48px;
+  position: relative;
+  background-color: #202735;
+  border: 2px solid;
+  border-color: #3c6bc3;
+}
+
+.macbook-air .trying-to-pursue-the {
+  position: absolute;
+  width: 365px;
+  top: 62px;
+  left: 47px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: #bcd8f1;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .a-student-of {
+  position: absolute;
+  top: 19px;
+  left: 21px;
+  font-family: "Figma Hand-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.macbook-air .span {
+  color: #bcd8f1;
+}
+
+.macbook-air .text-wrapper-5 {
+  color: #79ead6;
+}
+
+.macbook-air .group-212 {
+  position: absolute;
+  width: 249px;
+  height: 251px;
+  top: 235px;
+  left: 67px;
+}
+
+.macbook-air .group-213 {
+  position: absolute;
+  width: 215px;
+  height: 152px;
+  top: 661px;
+  left: 81px;
+}
+
+.macbook-air .icon-facebook {
+  width: 70px;
+  height: 69px;
+  top: 42px;
+  position: absolute;
+  left: 0;
+}
+
+.macbook-air .overlap-7 {
+  position: absolute;
+  width: 140px;
+  height: 152px;
+  top: 0;
+  left: 75px;
+}
+
+.macbook-air .icon-instagram {
+  width: 70px;
+  height: 70px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.macbook-air .overlap-8 {
+  position: absolute;
+  width: 137px;
+  height: 108px;
+  top: 44px;
+  left: 3px;
+}
+
+.macbook-air .icon-whatsapp {
+  width: 72px;
+  height: 72px;
+  top: 36px;
+  position: absolute;
+  left: 0;
+}
+
+.macbook-air .icon-send {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 0;
+  left: 67px;
+}
+
+.macbook-air .group-214 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2250px;
+  left: 386px;
+}
+
+.macbook-air .group-215 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1787px;
+  left: -290px;
+}
+
+.macbook-air .group-216 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1871px;
+  left: -290px;
+}
+
+.macbook-air .group-217 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1956px;
+  left: -290px;
+}
+
+.macbook-air .group-218 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2039px;
+  left: -290px;
+}
+
+.macbook-air .group-219 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2123px;
+  left: -290px;
+}
+
+.macbook-air .group-220 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2250px;
+  left: 236px;
+}
+
+.macbook-air .group-221 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2249px;
+  left: 85px;
+}
+
+.macbook-air .overlap-9 {
+  position: absolute;
+  width: 171px;
+  height: 124px;
+  top: 2207px;
+  left: -290px;
+}
+
+.macbook-air .group-222 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 43px;
+  left: 75px;
+}
+
+.macbook-air .group-223 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 0;
+  left: 0;
+}
+
+.macbook-air .group-224 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 2251px;
+  left: -64px;
+}
+
+.macbook-air .group-225 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1537px;
+  left: -291px;
+}
+
+.macbook-air .group-226 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1451px;
+  left: -291px;
+}
+
+.macbook-air .group-227 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1619px;
+  left: -290px;
+}
+
+.macbook-air .group-228 {
+  position: absolute;
+  width: 96px;
+  height: 81px;
+  top: 1703px;
+  left: -288px;
+}
